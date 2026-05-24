@@ -1,0 +1,1 @@
+console.log("Logic to create a table will go here");
